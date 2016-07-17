@@ -1,4 +1,4 @@
-# ex_sma
+# ex_sma [![Hex version](https://img.shields.io/hexpm/v/ex_sma.svg "Hex version")](https://hex.pm/packages/ex_sma) ![Hex downloads](https://img.shields.io/hexpm/dt/ex_sma.svg "Hex downloads") [![Build Status](https://semaphoreci.com/api/v1/samaracharya/ex_sma/branches/master/badge.svg)](https://semaphoreci.com/samaracharya/ex_sma) [![Coverage Status](https://coveralls.io/repos/github/techgaun/ex_sma/badge.svg?branch=master)](https://coveralls.io/github/techgaun/ex_sma?branch=master)
 
 Simple Moving Average calculation in Elixir
 
