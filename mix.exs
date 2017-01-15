@@ -7,7 +7,7 @@ defmodule Sma.Mixfile do
      elixir: "~> 1.2",
      source_url: "https://github.com/techgaun/ex_sma",
      description: "Simple moving average calculator in elixir",
-     package: package,
+     package: package(),
      test_coverage: [tool: ExCoveralls],
      preferred_cli_env: ["coveralls": :test, "coveralls.detail": :test, "coveralls.post": :test, "coveralls.html": :test],
      build_embedded: Mix.env == :prod,
